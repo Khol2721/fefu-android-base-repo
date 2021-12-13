@@ -8,17 +8,11 @@
 
     <ScrollView
         android:id="@+id/scrollView2"
-        android:layout_width="414dp"
-        android:layout_height="755dp"
-        android:layout_marginStart="5dp"
-        android:layout_marginTop="76dp"
-        android:layout_marginEnd="6dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginStart="6dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.478">
+        app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -32,8 +26,8 @@
 
                 <ImageButton
                     android:id="@+id/imageButton3"
-                    android:layout_width="49dp"
-                    android:layout_height="48dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
                     android:layout_marginStart="2dp"
                     android:layout_marginTop="16dp"
                     android:backgroundTint="#00FFFFFF"
@@ -45,8 +39,8 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="150dp"
-                    android:layout_height="48dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
                     android:fontFamily="@font/inter_medium"
                     android:gravity="start"
@@ -82,8 +76,8 @@
                     tools:ignore="TextContrastCheck">
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:layout_width="379dp"
-                        android:layout_height="52dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -106,8 +100,8 @@
                     tools:ignore="TextContrastCheck">
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:layout_width="379dp"
-                        android:layout_height="52dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -131,8 +125,8 @@
                     tools:ignore="TextContrastCheck">
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:layout_width="379dp"
-                        android:layout_height="52dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -157,8 +151,8 @@
                     tools:ignore="TextContrastCheck">
 
                     <com.google.android.material.textfield.TextInputEditText
-                        android:layout_width="379dp"
-                        android:layout_height="52dp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -185,7 +179,7 @@
                     android:textStyle="bold" />
 
                 <RadioGroup
-                    android:layout_width="366dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content">
 
                     <RadioButton
@@ -220,8 +214,8 @@
 
                 <Button
                     android:id="@+id/button"
-                    android:layout_width="379dp"
-                    android:layout_height="48dp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_margin="10dp"
                     android:backgroundTint="#4B09F3"
@@ -236,8 +230,8 @@
             </LinearLayout>
 
             <LinearLayout
-                android:layout_width="379dp"
-                android:layout_height="69dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
                 android:layout_marginStart="10dp"
                 android:layout_marginEnd="10dp"
                 android:orientation="vertical">
@@ -258,7 +252,7 @@
 
                     <TextView
                         android:id="@+id/textView6"
-                        android:layout_width="19dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:gravity="end"
@@ -305,7 +299,7 @@
 
                     <TextView
                         android:id="@+id/textView14"
-                        android:layout_width="168dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="5dp"
                         android:layout_weight="1"

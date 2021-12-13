@@ -8,22 +8,23 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="379dp"
-        android:layout_height="335dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginStart="11dp"
         android:layout_marginEnd="12dp"
-        android:layout_marginBottom="332dp"
+        android:layout_marginBottom="308dp"
         android:contentDescription="@string/bicycle_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.555"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/login_bicycle" />
 
     <LinearLayout
-        android:layout_width="378dp"
-        android:layout_height="294dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginStart="19dp"
-        android:layout_marginTop="422dp"
+        android:layout_marginTop="356dp"
         android:gravity="center"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,7 +43,7 @@
 
         <TextView
             android:id="@+id/textView2"
-            android:layout_width="330dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:fontFamily="@font/inter_medium"
@@ -52,8 +53,8 @@
 
         <Button
             android:id="@+id/buttonRegistration"
-            android:layout_width="244dp"
-            android:layout_height="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:backgroundTint="#4B09F3"
             android:fontFamily="@font/inter_bold"
@@ -63,14 +64,14 @@
             android:textSize="16sp" />
 
         <Button
-            android:onClick="loginGo"
             android:id="@+id/button2"
-            android:layout_width="252dp"
-            android:layout_height="48dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_marginBottom="60dp"
             android:backgroundTint="#004B09F3"
             android:elevation="0dp"
             android:fontFamily="@font/inter_bold"
+            android:onClick="loginGo"
             android:stateListAnimator="@null"
             android:text="@string/Button_text_2"
             android:textAllCaps="false"

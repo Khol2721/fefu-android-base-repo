@@ -7,8 +7,8 @@
     tools:context=".LoginActivity">
 
     <LinearLayout
-        android:layout_width="409dp"
-        android:layout_height="63dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
         android:layout_marginTop="1dp"
         android:orientation="horizontal"
@@ -17,8 +17,8 @@
 
         <ImageButton
             android:id="@+id/imageButton3"
-            android:layout_width="49dp"
-            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_marginStart="2dp"
             android:layout_marginTop="16dp"
             android:backgroundTint="#00FFFFFF"
@@ -26,12 +26,13 @@
             android:minWidth="56dp"
             android:minHeight="56dp"
             android:onClick="back"
-            app:srcCompat="@drawable/vector" />
+            app:srcCompat="@drawable/vector"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <TextView
             android:id="@+id/textView3"
-            android:layout_width="150dp"
-            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/inter_medium"
             android:gravity="start"
@@ -46,10 +47,10 @@
 
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="413dp"
-        android:layout_height="447dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
-        android:layout_marginTop="73dp"
+        android:layout_marginTop="64dp"
         android:gravity="center"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
@@ -58,8 +59,10 @@
 
         <ImageView
             android:id="@+id/imageView3"
-            android:layout_width="317dp"
-            android:layout_height="248dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
             android:contentDescription="@string/bicycle_image"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -84,8 +87,8 @@
             tools:ignore="TextContrastCheck">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:layout_width="379dp"
-                android:layout_height="52dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
                 android:fontFamily="@font/inter_medium"
                 tools:ignore="TextContrastCheck" />
 
@@ -110,8 +113,8 @@
             tools:ignore="TextContrastCheck">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:layout_width="379dp"
-                android:layout_height="52dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
                 android:fontFamily="@font/inter_medium"
                 tools:ignore="TextContrastCheck" />
 
@@ -119,8 +122,8 @@
 
         <Button
             android:id="@+id/button"
-            android:layout_width="379dp"
-            android:layout_height="48dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="10dp"
             android:backgroundTint="#4B09F3"
