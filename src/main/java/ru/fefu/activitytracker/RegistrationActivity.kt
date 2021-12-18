@@ -13,7 +13,7 @@ class RegistrationActivity : AppCompatActivity() {
     }
 
     fun back (view: View) {
-        val bk = Intent(this, MainActivity::class.java)
+        val bk = Intent(this, WelcomeActivity::class.java)
         startActivity(bk)
     }
 }
