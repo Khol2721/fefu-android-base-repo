@@ -15,42 +15,17 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <LinearLayout
+            <androidx.appcompat.widget.Toolbar
+                android:onClick="back"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal">
-
-                <ImageButton
-                    android:id="@+id/imageButton3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="fill_parent"
-                    android:layout_marginStart="2dp"
-                    android:layout_marginTop="16dp"
-                    android:backgroundTint="#00FFFFFF"
-                    android:importantForAccessibility="no"
-                    android:minWidth="56dp"
-                    android:minHeight="56dp"
-                    android:onClick="back"
-                    app:srcCompat="@drawable/vector" />
-
-                <TextView
-                    android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp"
-                    android:fontFamily="@font/inter_medium"
-                    android:gravity="start"
-                    android:paddingTop="10dp"
-                    android:paddingBottom="10dp"
-                    android:text="@string/reg"
-                    android:textColor="@color/black"
-                    android:textSize="19sp"
-                    android:textStyle="bold" />
-            </LinearLayout>
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/vector"
+                app:title="@string/reg" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -127,6 +102,7 @@
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
+                        android:password="true"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
@@ -153,6 +129,7 @@
                     <com.google.android.material.textfield.TextInputEditText
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
+                        android:password="true"
                         android:fontFamily="@font/inter_medium" />
 
                 </com.google.android.material.textfield.TextInputLayout>
