@@ -13,18 +13,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="false" />
-<!--        <activity-->
-<!--            android:name=".main_page.UsersActivityFragment"-->
-<!--            android:exported="false" />-->
-<!--        <activity-->
-<!--            android:name=".main_page.ProfileFragment"-->
-<!--            android:exported="false" />-->
-<!--        <activity-->
-<!--            android:name=".main_page.MyActivityFragment"-->
-<!--            android:exported="false" />-->
-<!--        <activity-->
-<!--            android:name=".main_page.ActivityFragment"-->
-<!--            android:exported="false" />-->
         <activity
             android:name=".LoginActivity"
             android:exported="false"
