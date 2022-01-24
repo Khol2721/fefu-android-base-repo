@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Khol\.gradle\caches\transforms-3\bdebbaec14c45c15f98b50940271f991\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Khol\.gradle\caches\transforms-3\6e39cd005063afa914a657762e92524f\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Khol\.gradle\caches\transforms-3\334994727d26f04df6ec8ea7cc400432\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -64,25 +64,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Khol\.gradle\caches\transforms-3\084d9626b7e6e1bb6f4b7736011c1b83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Khol\.gradle\caches\transforms-3\e560ce8c3ecc8583efef93c2b780b83e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Khol\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:5:5-45:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Khol\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Khol\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Khol\.gradle\caches\transforms-3\7093371a8ebe682555e0d4e748501432\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
@@ -96,73 +96,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kh
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Khol\.gradle\caches\transforms-3\6006d603408a8c1ed0edf3e550c48eb5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:7:9-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:7:9-36
 	android:theme
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:12:9-46
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:12:9-46
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:6:9-38
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:6:9-38
 activity#ru.fefu.activitytracker.main_page.map.NewActivity
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:label
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:16:13-55
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:16:13-55
 	android:exported
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:15:13-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:15:13-36
 	android:theme
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:18:13-62
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:18:13-62
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:14:13-54
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:14:13-54
 activity#ru.fefu.activitytracker.main_page.MainActivity
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:20:9-24:20
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:20:9-24:20
 	android:label
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:23:13-56
 	android:exported
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:22:13-36
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:21:13-51
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:21:13-51
 activity#ru.fefu.activitytracker.welcome.WelcomeActivity
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:25:9-36:20
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:25:9-36:20
 	android:exported
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:26:13-52
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:26:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:29:14-34:30
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:29:14-34:30
 action#android.intent.action.MAIN
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:30:14-66
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:30:14-66
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:30:22-63
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:30:22-63
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:33:14-74
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:33:14-74
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:33:24-71
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:33:24-71
 activity#ru.fefu.activitytracker.welcome.LoginActivity
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:37:9-40:58
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:37:9-40:58
 	android:windowSoftInputMode
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:40:13-55
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:40:13-55
 	android:exported
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:39:13-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:38:13-50
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:38:13-50
 activity#ru.fefu.activitytracker.welcome.RegistrationActivity
-ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:41:9-44:58
+ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:41:9-44:58
 	android:windowSoftInputMode
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:44:13-55
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:44:13-55
 	android:exported
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml:42:13-57
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml:42:13-57
 uses-sdk
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Khol\.gradle\caches\transforms-3\bdebbaec14c45c15f98b50940271f991\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Khol\.gradle\caches\transforms-3\bdebbaec14c45c15f98b50940271f991\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Khol\.gradle\caches\transforms-3\6e39cd005063afa914a657762e92524f\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -283,16 +283,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Khol\.gradle\cac
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Khol\.gradle\caches\transforms-3\e560ce8c3ecc8583efef93c2b780b83e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Khol\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Khol\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Khol\Documents\GitHub\fefu-android-base-repo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Khol\Desktop\fefu-android-base-repo-task3-4-5\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Khol\.gradle\caches\transforms-3\4caaad01a284ca2170c6698a94c0c7b8\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
 	android:exported
