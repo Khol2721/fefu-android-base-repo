@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Khol\\Desktop\\fefu-android-base-repo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "C:\\Users\\Khol\\Documents\\GitHub\\fefu-android-base-repo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Khol\\.gradle\\caches\\transforms-3\\18d14ff6081cdd4d7e524a53938b4251\\transformed\\material-1.4.0\\res\\values-az\\values-az.xml",
